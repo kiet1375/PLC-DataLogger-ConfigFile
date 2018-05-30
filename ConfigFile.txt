@@ -1,0 +1,11 @@
+[{"PLC0": {"Address": "127.0.0.1", "DriverName": "drv-dummy.py", "Tags": {"Tag0": {"Interval": 10, "Mode": "change"}}}},
+{"PLC2": {"Address": "127.0.0.2", "DriverName": "drv-dummy.py", "Tags": {"Tag2": {"Interval": 30, "Mode": "change"}}}},
+{"PLC1": {"Address": "127.0.0.2", "DriverName": "drv-dummy.py", "Tags": {"Tag1": {"Interval": 20, "Mode": "change"}}}},
+{"PLC2": {"Address": "127.0.0.3", "DriverName": "drv-dummy.py6", "Tags": {"Tag2": {"Interval": 30, "Mode": "change"}}}},
+{"PLC3": {"Address": "127.0.0.3", "DriverName": "drv-dummy.py", "Tags": {"Tag3": {"Interval": 30, "Mode": "change"}}}},
+{"PLC2": {"Address": "127.0.0.3", "DriverName": "drv-dummy.py", "Tags": {"Tag2": {"Interval": 30, "Mode": "change"}}}},
+{"PLC3": {"Address": "127.0.0.1", "DriverName": "drv-dummy.py", "Tags": {"Tag3": {"Interval": 50, "Mode": "change"}}}},
+{"PLC7": {"Address": "127.0.0.7", "DriverName": "drv-dummy.py", "Tags": {"Tag7": {"Interval": 77, "Mode": "change"}}}},
+{"PLC2": {"Address": "127.0.0.2", "DriverName": "drv-dummy.py", "Tags": {"Tag2": {"Interval": 30, "Mode": "change"}}}},
+{"PLC2": {"Address": "127.0.0.10", "DriverName": "drv-dummy.py", "Tags": {"Tag2": {"Interval": 30, "Mode": "change"}}}},
+{"PLC7": {"Address": "127.0.0.10", "DriverName": "drv-dummy.py", "Tags": {"Tag7": {"Interval": 77, "Mode": "change"}}}}]
