@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 #Daniel McCarthy 04/2018
+#author: Kiet Lam
 #This file contains code to manage the configuration file
 import json
 
